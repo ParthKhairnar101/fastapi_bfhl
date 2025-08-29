@@ -42,3 +42,7 @@ python -m uvicorn main:app --reload
   "concat_string": "Ra"
 }
 ```
+
+# Usage
+
+Send POST request on https://fastapi-bfhl-six.vercel.app/bfhl.
