@@ -27,7 +27,7 @@ python -m uvicorn main:app --reload
 }
 ```
 
-# Example Response
+## Example Response
 ```json
 {
   "is_success": true,
@@ -43,6 +43,6 @@ python -m uvicorn main:app --reload
 }
 ```
 
-# Usage
+## Usage
 
 Send POST request on https://fastapi-bfhl-six.vercel.app/bfhl.
